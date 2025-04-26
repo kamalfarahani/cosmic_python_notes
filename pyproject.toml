@@ -1,0 +1,11 @@
+[project]
+name = "cosmic-python-notes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.4.0",
+    "pytest>=8.3.5",
+    "sqlalchemy>=2.0.40",
+]
